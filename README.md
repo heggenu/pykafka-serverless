@@ -1,0 +1,1 @@
+Playing around with serverless and PyKafka. Based on aws-python serverless template and code samples from PyKafka. Uses CloudKarafka for Kafka.
